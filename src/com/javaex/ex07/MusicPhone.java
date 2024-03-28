@@ -1,5 +1,5 @@
 package com.javaex.ex07;
-
+// 변경 불가
 public class MusicPhone extends Phone{
     
     public void execute(String str){

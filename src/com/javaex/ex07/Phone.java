@@ -1,5 +1,5 @@
 package com.javaex.ex07;
-
+// 변경 불가
 public class Phone {
 
     public void execute(String str){
